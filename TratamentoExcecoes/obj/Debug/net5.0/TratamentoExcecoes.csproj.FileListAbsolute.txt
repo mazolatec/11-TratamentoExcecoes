@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\ref\TratamentoExcecoes.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net5.0\TratamentoExcecoes.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\ref\TratamentoExcecoes.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net5.0\TratamentoExcecoes.genruntimeconfig.cache
