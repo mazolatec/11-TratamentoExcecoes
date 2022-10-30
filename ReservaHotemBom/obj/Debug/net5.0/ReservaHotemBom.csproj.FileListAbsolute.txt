@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ref\ReservaHotemBom.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\bin\Debug\net5.0\ReservaHotemBom.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ref\ReservaHotemBom.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotemBom\obj\Debug\net5.0\ReservaHotemBom.genruntimeconfig.cache

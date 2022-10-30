@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSOS\\UDEMY\\C#COMPLETOProgramacaoOrientadaObjetosProjetos\\11-TratamentoExcecoes\\TratamentoExcecoes\\TratamentoExcecoes.csproj",
-      "projectName": "TratamentoExcecoes",
-      "projectPath": "D:\\CURSOS\\UDEMY\\C#COMPLETOProgramacaoOrientadaObjetosProjetos\\11-TratamentoExcecoes\\TratamentoExcecoes\\TratamentoExcecoes.csproj",
+      "projectUniqueName": "D:\\CURSOS\\UDEMY\\C#COMPLETOProgramacaoOrientadaObjetosProjetos\\11-TratamentoExcecoes\\TratamentoExcecoes\\01-TratamentoExcecoes.csproj",
+      "projectName": "01-TratamentoExcecoes",
+      "projectPath": "D:\\CURSOS\\UDEMY\\C#COMPLETOProgramacaoOrientadaObjetosProjetos\\11-TratamentoExcecoes\\TratamentoExcecoes\\01-TratamentoExcecoes.csproj",
       "packagesPath": "C:\\Users\\Mazola\\.nuget\\packages\\",
       "outputPath": "D:\\CURSOS\\UDEMY\\C#COMPLETOProgramacaoOrientadaObjetosProjetos\\11-TratamentoExcecoes\\TratamentoExcecoes\\obj\\",
       "projectStyle": "PackageReference",

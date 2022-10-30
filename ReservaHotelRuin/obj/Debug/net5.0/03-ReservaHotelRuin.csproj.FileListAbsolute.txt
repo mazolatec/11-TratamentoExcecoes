@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\ref\03-ReservaHotelRuin.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\bin\Debug\net5.0\03-ReservaHotelRuin.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\ref\03-ReservaHotelRuin.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\ReservaHotelRuin\obj\Debug\net5.0\03-ReservaHotelRuin.genruntimeconfig.cache

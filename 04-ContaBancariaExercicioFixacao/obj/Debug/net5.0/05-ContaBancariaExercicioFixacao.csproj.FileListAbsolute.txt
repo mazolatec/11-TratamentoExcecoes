@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\ref\05-ContaBancariaExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\bin\Debug\net5.0\05-ContaBancariaExercicioFixacao.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\ref\05-ContaBancariaExercicioFixacao.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\11-TratamentoExcecoes\04-ContaBancariaExercicioFixacao\obj\Debug\net5.0\05-ContaBancariaExercicioFixacao.genruntimeconfig.cache
